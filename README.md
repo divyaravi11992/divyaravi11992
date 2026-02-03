@@ -60,6 +60,6 @@ Current focus:
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/your-link)  
+- LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/divya-ravi-955378105/)
 - Website/Portfolio: [https://your-portfolio.com](https://your-portfolio.com)  
-- Email: `youremail@example.com`
+- Email: `divyaravi11992@gmail.com`
