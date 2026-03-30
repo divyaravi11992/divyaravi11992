@@ -35,21 +35,6 @@ Current focus:
 
 ---
 
-## 📌 Featured Projects
-
-- **[swiftui-architecture-notes](https://github.com/your-username/swiftui-architecture-notes)**  
-  Real-world SwiftUI architecture patterns, trade-offs, and examples.
-
-- **[ios-concurrency-explained](https://github.com/your-username/ios-concurrency-explained)**  
-  Practical examples of async/await, structured concurrency, and common pitfalls.
-
-- **[mobile-ai-playground](https://github.com/your-username/mobile-ai-playground)** *(coming soon)*  
-  Exploring how AI/ML can enhance mobile UX and features.
-
-> Even small, focused repos like these signal **expertise, mentorship, and real-world impact**.
-
----
-
 ## 🎤 Knowledge Sharing
 
 - Conference attendee & active learner (e.g., **Deep Dish Swift**)  
